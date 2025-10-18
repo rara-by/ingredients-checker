@@ -1,0 +1,1149 @@
+Request successful.
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Benton Bakuchiol Serum ingredients (Explained)</title>
+    <meta name="description" content="Benton Bakuchiol Serum ingredients explained: Aqua (Water), Glycerin, Caprylic/Capric Triglyceride, Bakuchiol, Niacinamide, 1,2-Hexanediol, Coco-Caprylate/Caprate, Behenyl Alcohol, Cetearyl Olivate, Sorbitan Olivate, Psoralea Corylifolia Fruit Extract, Carbomer, Arginine, Artemisia Vulgaris Oil, Xanthan Gum, Citrus Aurantium Amara (Bitter Orange) Flower Extract, Ethylhexylglycerin, Allantoin, Adenosine, Tocopherol, Lavandula Angustifolia (Lavender) Oil, Litsea Cubeba Fruit Oil, Ribes Nigrum (Black Currant) Leaf Extract">
+    <link rel="preload" as="font" href="https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-regular-webfont.woff" type="font/woff" crossorigin="anonymous">
+<link rel="preload" as="font" href="https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-bold-webfont.woff" type="font/woff" crossorigin="anonymous"><link rel="stylesheet" href="https://incidecoder-assets.storage.googleapis.com/assets/bundles/css/all-styles.2d9aab924b7f1fd18861.css"><style nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg">
+    @font-face {
+        font-family: 'klavika_regular';
+        src: url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-regular-webfont.eot');
+        src: url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-regular-webfont.eot?#iefix') format('embedded-opentype'),
+             url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-regular-webfont.woff') format('woff'),
+             url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-regular-webfont.ttf') format('truetype'),
+             url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-regular-webfont.svg#klavika-regular') format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: fallback;
+    }
+    @font-face {
+        font-family: 'klavika_bold';
+        src: url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-bold-webfont.eot');
+        src: url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-bold-webfont.eot?#iefix') format('embedded-opentype'),
+             url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-bold-webfont.woff') format('woff'),
+             url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-bold-webfont.ttf') format('truetype'),
+             url('https://incidecoder-assets.storage.googleapis.com/assets/css/fonts/klavika-bold-webfont.svg#klavika-bold') format('svg');
+        font-weight: normal;
+        font-style: normal;
+        font-display: fallback;
+    }
+</style><link rel="preconnect" href="https://www.facebook.com">
+<link rel="preconnect" href="https://www.gstatic.com">
+<link rel="preconnect" href="https://www.google.com">
+<link rel="preconnect" href="https://connect.facebook.net">
+<link rel="preconnect" href="https://www.google-analytics.com">
+    <meta name="apple-mobile-web-app-title" content="INCIDecoder">
+<meta name="application-name" content="INCIDecoder">
+<meta name="apple-mobile-web-app-title" content="INCIDecoder">
+<meta name="application-name" content="INCIDecoder">
+<meta name="apple-mobile-web-app-title" content="INCIDecoder">
+<meta name="application-name" content="INCIDecoder">
+<link rel="apple-touch-icon" sizes="180x180" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/apple-touch-icon.png?v=OmJRBjJrvk">
+<link rel="apple-touch-icon" sizes="152x152" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/apple-touch-icon-152x152.png?v=OmJRBjJrvk">
+<link rel="apple-touch-icon" sizes="120x120" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/apple-touch-icon-120x120.png?v=OmJRBjJrvk">
+<link rel="icon" type="image/png" sizes="32x32" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/favicon-32x32.png?v=OmJRBjJrvk">
+<link rel="icon" type="image/png" sizes="16x16" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/favicon-16x16.png?v=OmJRBjJrvk">
+<link rel="manifest" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/site.webmanifest?v=OmJRBjJrvk_v2">
+<link rel="mask-icon" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/safari-pinned-tab.svg?v=OmJRBjJrvk" color="#a984b2">
+<link rel="shortcut icon" href="https://incidecoder-assets.storage.googleapis.com/assets/icons/favicon.ico?v=OmJRBjJrvk">
+<meta name="apple-mobile-web-app-title" content="INCIDecoder">
+<meta name="application-name" content="INCIDecoder">
+<meta name="msapplication-TileColor" content="#603cba">
+<meta name="msapplication-TileImage" content="https://incidecoder-assets.storage.googleapis.com/assets/icons/mstile-144x144.png?v=OmJRBjJrvk">
+<meta name="theme-color" content="#ffffff">
+    <meta name="google-site-verification" content="8VqQG8p3G9e1SAcXKwQGoi3H2Dd8WGESZBL9yTJCa3U">
+    
+
+    <!-- Google tag (gtag.js) -->
+    <script nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg" async src="https://www.googletagmanager.com/gtag/js?id=G-WSCGSQYT7T"></script>
+    <script nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'G-WSCGSQYT7T');
+    </script>
+
+    <script nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-5645560-6', 'auto');
+      if (location.hostname == 'localhost') {
+          // disable analytics on localhost
+          ga('set', 'sendHitTask', null);
+      }
+      ga('set', 'contentGroup1', 'Product');
+      ga('send', 'pageview');
+    </script>
+<!-- Facebook Pixel Code -->
+<script nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg">
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '322816185011739');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" class="hidden"
+  src="https://www.facebook.com/tr?id=322816185011739&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+<body class="fs21">
+    <div class="margin-0px-auto">
+        <div id="header" class="header greybottomborder">
+            <div class="maxwidth">
+                <div class="simple-side-padding">
+                    <div class="header-right">
+                        <a href="/" class="main-title">
+                            <img id="logo" src="https://incidecoder-assets.storage.googleapis.com/assets/img/idlogo.png" alt="Ingredients explained" width="153" height="103">
+                        </a><div class="hideonmobil header-search-no-mobile">
+                                
+<div class="smallsearchform">
+     <form method="get" action="/search" class="form">
+        <input name="query" type="text" placeholder="Search"
+            >
+        <input type="submit" value="Search" class="">
+    </form>
+</div>
+
+                            </div><div id="menu" class="hideonmobil hideotablet">
+                            <a class="lowercase klavikab lilac topmenu paddingrs" href="/products">Products</a>
+                            <a class="lowercase klavikab lilac topmenu paddingrs" href="/ingredients">Ingredients</a>
+                            <a class="lowercase klavikab lilac topmenu paddingrs" href="/decode-inci">Decode INCI</a><span class="menuitemborder borderlilac display-inline">
+                                    <a class="lowercase klavikab lilac topmenu" href="/account/login">Login</a>
+                                    <img class="header-login-goodie1 header-login-goodie2" src="https://incidecoder-assets.storage.googleapis.com/assets/img/star_goodie.png" alt="">
+                                    <a class="lowercase klavikab lilac topmenu" href="/account/register">Register</a>
+                                </span></div>
+                        <div class="mobilonly tabletonly">
+                            <img  src="https://incidecoder-assets.storage.googleapis.com/assets/img/mobilmenu.png" class="mobilmenu-open" alt="mobile menu" width="110" height="100">
+                        </div>
+                    </div>
+                    <div id="mobilmenu" class="mobilonly tabletonly mobilemenuopened hidden">
+                        <div class="greybottomborder paddinglm"><span  class="menuitemborder borderwhite" >
+                                    <a class="lowercase klavikab white topmenu" href="/account/login">Login</a>
+                                    <img class="header-login-goodie1" src="https://incidecoder-assets.storage.googleapis.com/assets/img/star_white.png" alt="">
+                                    <a class="lowercase klavikab white topmenu" href="/account/register">Register</a>
+                                    <!-- needed because of a Chrome bug: right border is not visible otherwise -->
+                                    <div class="fright"></div>
+                                </span><img class="mobilmenu-close" src="https://incidecoder-assets.storage.googleapis.com/assets/img/cross-mark.png" alt="close message"/>
+                        </div>
+                        <div  class="paddinglm paddingtm">
+                            <a class="lowercase klavikab white mobilmenuitem paddingrs" href="/products">Products</a>
+                            <a class="lowercase klavikab white mobilmenuitem paddingrs" href="/ingredients">Ingredients</a>
+                            <a class="lowercase klavikab white mobilmenuitem paddingrs" href="/decode-inci">Decode INCI</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>  <!-- end of header--><a href="https://www.instagram.com/incidecodercom/" class="black">
+
+            <div class="mobilonly pinkblock paddingts paddingbs center width100">
+                <img src="https://incidecoder-assets.storage.googleapis.com/assets/img/instagram.png" class="link-icon opaque" alt="">
+                <span class="underline">Follow us on our new Insta page &#187;</span>
+            </div>
+        </a><div id="content" class="content"><div class="dynamic-messages"></div>
+
+            <!-- search on mobile --><div class="mobilonly simple-side-padding header-search-mobile">
+                    
+<div class="smallsearchform">
+     <form method="get" action="/search" class="form">
+        <input name="query" type="text" placeholder="Search"
+            >
+        <input type="submit" value="Search" class="">
+    </form>
+</div>
+
+                </div>
+
+<div class="detailpage">
+    
+    
+    
+    
+
+    
+
+    <div class="std-side-padding paddingtl">
+        <div class="prodinfocontainer">
+            
+              <div class="imgcontainer fleft">
+                <div class="image imgborder" id="product-main-image"><picture>
+            <source srcset="https://incidecoder-content.storage.googleapis.com/0efccc1a-2a4a-4996-9289-073430e086bb/products/benton-bakuchiol-serum/benton-bakuchiol-serum_front_photo_300x300@1x.webp 1.0000x" type="image/webp">
+            <source srcset="https://incidecoder-content.storage.googleapis.com/0efccc1a-2a4a-4996-9289-073430e086bb/products/benton-bakuchiol-serum/benton-bakuchiol-serum_front_photo_300x300@1x.jpeg 1.0000x" type="image/jpeg">
+
+            
+                <img src="https://incidecoder-content.storage.googleapis.com/0efccc1a-2a4a-4996-9289-073430e086bb/products/benton-bakuchiol-serum/benton-bakuchiol-serum_front_photo_original.jpeg" alt="Benton Bakuchiol Serum" >
+            
+        </picture></div>
+                
+              </div>
+            
+
+        </div>
+
+        
+        <div class="prodinfobox prodnexttoimage fleft">
+        
+            <div class="marginb23">
+              <h1>
+                <div class="fs21 normal">
+                  <span id="product-brand-title">
+                    
+<a href="/brands/benton" class="underline">Benton</a>
+                  </span>
+                </div>
+                <div class="klavikab lilac"><span id="product-title">Bakuchiol Serum</span></div>
+              </h1>
+
+              <div class="marginb23 margint23 italic">
+                <span id="product-details">
+    
+    Contains 2.5% pure bakuchiol from Psoralea Corylifolia Fruit and helps manage healthy and smooth skin texture, soothes and protects the skin.
+    </span></div>
+                
+                <div class="fs12">Uploaded by: guboguba on <time datetime="2022-07-25">07/25/2022</time></div></div>
+        </div>
+        <div class="clear"></div>
+    </div>
+
+
+
+    <div class="ingredlist-short-like-section">
+        <h2 class="section-v3-title std-side-padding paddingt60">Ingredients overview</h2>
+
+        <div class="std-side-padding paddingtb30">
+            <div id="ingredlist-short">
+              <div class="showmore-section ingredlist-short-like-section" id="showmore-section-ingredlist-short" role="list">
+
+    
+
+    
+        <div class="" role="group"><span class="" role="listitem"><a href="/ingredients/water"
+       class="ingred-link black    " >Aqua (Water)</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-water"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/glycerin"
+       class="ingred-link black    " >Glycerin</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-glycerin"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/caprylic-capric-triglyceride"
+       class="ingred-link black    " >Caprylic/​Capric Triglyceride</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-caprylic-capric-triglyceride"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/bakuchiol"
+       class="ingred-link black    " >Bakuchiol</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-bakuchiol"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/niacinamide"
+       class="ingred-link black    " >Niacinamide</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-niacinamide"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/1-2-hexanediol"
+       class="ingred-link black    " >1,2-Hexanediol</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-1-2-hexanediol"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/coco-caprylate-caprate"
+       class="ingred-link black    " >Coco-Caprylate/​Caprate</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-coco-caprylate-caprate"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/behenyl-alcohol"
+       class="ingred-link black    " >Behenyl Alcohol</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-behenyl-alcohol"></span>,
+                            </span><span class="" role="listitem"><a href="/ingredients/cetearyl-olivate"
+       class="ingred-link black    " >Cetearyl Olivate</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-cetearyl-olivate"></span>,
+                            
+        <button class="link-like showmore-link-mobile showmore-link">[more]</button></span><span class="showmore-mobile" role="listitem"><a href="/ingredients/sorbitan-olivate"
+       class="ingred-link black    " >Sorbitan Olivate</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-sorbitan-olivate"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/psoralea-corylifolia-fruit-extract"
+       class="ingred-link black    " >Psoralea Corylifolia Fruit Extract</a>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/carbomer"
+       class="ingred-link black    " >Carbomer</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-carbomer"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/arginine"
+       class="ingred-link black    " >Arginine</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-arginine"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/artemisia-vulgaris-oil"
+       class="ingred-link black    " >Artemisia Vulgaris Oil</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-artemisia-vulgaris-oil"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/xanthan-gum"
+       class="ingred-link black    " >Xanthan Gum</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-xanthan-gum"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/citrus-aurantium-amara-flower-extract"
+       class="ingred-link black    " >Citrus Aurantium Amara (Bitter Orange) Flower Extract</a>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/ethylhexylglycerin"
+       class="ingred-link black    " >Ethylhexylglycerin</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-ethylhexylglycerin"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/allantoin"
+       class="ingred-link black    " >Allantoin</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-allantoin"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/adenosine"
+       class="ingred-link black    " >Adenosine</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-adenosine"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/tocopherol"
+       class="ingred-link black    " >Tocopherol</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-tocopherol"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/lavandula-angustifolia-oil"
+       class="ingred-link black    " >Lavandula Angustifolia (Lavender) Oil</a><span class="info-circle info-circle-ingred-short our-take-icky tooltip" data-tooltip-content="#tt-lavandula-angustifolia-oil"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/litsea-cubeba-fruit-oil"
+       class="ingred-link black    " >Litsea Cubeba Fruit Oil</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-litsea-cubeba-fruit-oil"></span>,
+                            </span><span class="showmore-mobile" role="listitem"><a href="/ingredients/ribes-nigrum-leaf-extract"
+       class="ingred-link black    " >Ribes Nigrum (Black Currant) Leaf Extract</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-ribes-nigrum-leaf-extract"></span></span></div><button class="link-like showless-link">[less]</button>
+
+</div>
+            </div>
+            
+            <div id="inci-warning">
+              <div class="fs16 italic">
+  
+    Read more on <a href="/ingredient-lists">how to read an ingredient list &gt;&gt;</a>
+  
+</div>
+            </div></div>
+
+        <div class="std-side-padding paddingb30">
+            <div class="fs16 bold">
+                
+              <span id="compare-controls"><span class="link-with-icon"><button
+      data-postlinkurl="/compare/add/benton-bakuchiol-serum"
+      data-postlinkdata='{ "title": "Benton Bakuchiol Serum" }'
+      class="postlink link-like">
+        <img src="https://incidecoder-assets.storage.googleapis.com/assets/img/000062-two-documents-text.svg" class="link-icon">Compare</button>
+    
+  </span>
+  
+  <span class="vertical-separator "></span>
+</span>
+
+              
+              
+              
+                <span class="link-with-icon">
+                  <button id="open-report-error-dialog" title="Click here to report a problem with this page" class="link-like bold">
+                    <img src="https://incidecoder-assets.storage.googleapis.com/assets/img/triangle-exclamation-mark-2.svg" class="link-icon">Report Error</button>
+                </span>
+              <span class="vertical-separator"></span>
+              
+              <span class="link-with-icon">
+                <button class="link-like bold" id="openblogdialog" title="Click here to embed ingredient list into your blog">
+                  <img src="https://incidecoder-assets.storage.googleapis.com/assets/img/embed-to-blog.svg" class="link-icon" alt="">Embed
+                </button>
+              </span>
+            </div>
+        </div>
+
+
+    </div>
+
+    <div class="ingredlist-short-like-section" id="ingredlist-highlights-section">
+
+    <h2 class="section-v3-title std-side-padding">Highlights</h2>
+
+    <div class="std-side-padding paddingtb30"><div class="paddingb30 hashtags"><span class="hashtag tooltip" data-tooltip-content="#tt-hashtag-1">#alcohol-free</span>
+            </div>
+        <div class="tooltip_templates"><div id="tt-hashtag-1">
+                    <div class="ingred-tooltip-text">
+                        Alcohol Free
+                    </div>
+                </div></div>
+    <div class="ingredlist-by-function-block"><h3 class="klavikab lilac">Key Ingredients</h3><div>
+            <span class="bold"><a href="/ingredient-functions/anti-acne"  class="func-link" title="">Anti-acne</a></span>: 
+                <span><a href="/ingredients/niacinamide"
+       class="ingred-link black    " >Niacinamide</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-niacinamide"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/antioxidant"  class="func-link" title="">Antioxidant</a></span>: 
+                <span><a href="/ingredients/bakuchiol"
+       class="ingred-link black    " >Bakuchiol</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-bakuchiol"></span>, </span><span><a href="/ingredients/tocopherol"
+       class="ingred-link black    " >Tocopherol</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-tocopherol"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/cell-communicating-ingredient"  class="func-link" title="">Cell-communicating ingredient</a></span>: 
+                <span><a href="/ingredients/bakuchiol"
+       class="ingred-link black    " >Bakuchiol</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-bakuchiol"></span>, </span><span><a href="/ingredients/niacinamide"
+       class="ingred-link black    " >Niacinamide</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-niacinamide"></span>, </span><span><a href="/ingredients/adenosine"
+       class="ingred-link black    " >Adenosine</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-adenosine"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/skin-brightening"  class="func-link" title="">Skin brightening</a></span>: 
+                <span><a href="/ingredients/niacinamide"
+       class="ingred-link black    " >Niacinamide</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-niacinamide"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/skin-identical-ingredient"  class="func-link" title="">Skin-identical ingredient</a></span>: 
+                <span><a href="/ingredients/glycerin"
+       class="ingred-link black    " >Glycerin</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-glycerin"></span>, </span><span><a href="/ingredients/arginine"
+       class="ingred-link black    " >Arginine</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-arginine"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/soothing"  class="func-link" title="">Soothing</a></span>: 
+                <span><a href="/ingredients/allantoin"
+       class="ingred-link black    " >Allantoin</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-allantoin"></span></span></div></div><p class="paddingtb20"><button class="link-like readmore arrowleft16 fs16">Show all ingredients by function</button></p>
+        <div class="display-none">
+    <div class="ingredlist-by-function-block"><h3 class="klavikab lilac">Other Ingredients</h3><div>
+            <span class="bold"><a href="/ingredient-functions/antimicrobial-antibacterial"  class="func-link" title="">Antimicrobial/antibacterial</a></span>: 
+                <span><a href="/ingredients/bakuchiol"
+       class="ingred-link black    " >Bakuchiol</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-bakuchiol"></span>, </span><span><a href="/ingredients/lavandula-angustifolia-oil"
+       class="ingred-link black    " >Lavandula Angustifolia (Lavender) Oil</a><span class="info-circle info-circle-ingred-short our-take-icky tooltip" data-tooltip-content="#tt-lavandula-angustifolia-oil"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/emollient"  class="func-link" title="">Emollient</a></span>: 
+                <span><a href="/ingredients/caprylic-capric-triglyceride"
+       class="ingred-link black    " >Caprylic/​Capric Triglyceride</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-caprylic-capric-triglyceride"></span>, </span><span><a href="/ingredients/coco-caprylate-caprate"
+       class="ingred-link black    " >Coco-Caprylate/​Caprate</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-coco-caprylate-caprate"></span>, </span><span><a href="/ingredients/behenyl-alcohol"
+       class="ingred-link black    " >Behenyl Alcohol</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-behenyl-alcohol"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/emulsifying"  class="func-link" title="">Emulsifying</a></span>: 
+                <span><a href="/ingredients/cetearyl-olivate"
+       class="ingred-link black    " >Cetearyl Olivate</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-cetearyl-olivate"></span>, </span><span><a href="/ingredients/sorbitan-olivate"
+       class="ingred-link black    " >Sorbitan Olivate</a><span class="info-circle info-circle-ingred-short our-take-goodie tooltip" data-tooltip-content="#tt-sorbitan-olivate"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/moisturizer-humectant"  class="func-link" title="">Moisturizer/humectant</a></span>: 
+                <span><a href="/ingredients/glycerin"
+       class="ingred-link black    " >Glycerin</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-glycerin"></span>, </span><span><a href="/ingredients/niacinamide"
+       class="ingred-link black    " >Niacinamide</a><span class="info-circle info-circle-ingred-short our-take-superstar tooltip" data-tooltip-content="#tt-niacinamide"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/perfuming"  class="func-link" title="">Perfuming</a></span>: 
+                <span><a href="/ingredients/artemisia-vulgaris-oil"
+       class="ingred-link black    " >Artemisia Vulgaris Oil</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-artemisia-vulgaris-oil"></span>, </span><span><a href="/ingredients/lavandula-angustifolia-oil"
+       class="ingred-link black    " >Lavandula Angustifolia (Lavender) Oil</a><span class="info-circle info-circle-ingred-short our-take-icky tooltip" data-tooltip-content="#tt-lavandula-angustifolia-oil"></span>, </span><span><a href="/ingredients/litsea-cubeba-fruit-oil"
+       class="ingred-link black    " >Litsea Cubeba Fruit Oil</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-litsea-cubeba-fruit-oil"></span>, </span><span><a href="/ingredients/ribes-nigrum-leaf-extract"
+       class="ingred-link black    " >Ribes Nigrum (Black Currant) Leaf Extract</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-ribes-nigrum-leaf-extract"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/preservative"  class="func-link" title="">Preservative</a></span>: 
+                <span><a href="/ingredients/ethylhexylglycerin"
+       class="ingred-link black    " >Ethylhexylglycerin</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-ethylhexylglycerin"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/solvent"  class="func-link" title="">Solvent</a></span>: 
+                <span><a href="/ingredients/water"
+       class="ingred-link black    " >Aqua (Water)</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-water"></span>, </span><span><a href="/ingredients/1-2-hexanediol"
+       class="ingred-link black    " >1,2-Hexanediol</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-1-2-hexanediol"></span></span></div><div>
+            <span class="bold"><a href="/ingredient-functions/viscosity-controlling"  class="func-link" title="">Viscosity controlling</a></span>: 
+                <span><a href="/ingredients/behenyl-alcohol"
+       class="ingred-link black    " >Behenyl Alcohol</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-behenyl-alcohol"></span>, </span><span><a href="/ingredients/carbomer"
+       class="ingred-link black    " >Carbomer</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-carbomer"></span>, </span><span><a href="/ingredients/xanthan-gum"
+       class="ingred-link black    " >Xanthan Gum</a><span class="info-circle info-circle-ingred-short our-take-no-take tooltip" data-tooltip-content="#tt-xanthan-gum"></span></span></div></div></div></div>
+
+</div>
+
+    <div id="ingredlist-table-section">
+    <h2 class="section-v3-title std-side-padding">Skim through</h2>
+
+<div class="std-side-padding paddingtb30 showmore-section" id="showmore-section-ingredlist-table">
+    <table class="product-skim fs16">
+        <thead>
+            <tr>
+                <th>Ingredient name</th>
+                <th>what-it-does</th>
+                <th>
+                    <span class="tooltip" title="irritancy">irr.</span>,
+                    <span class="tooltip" title="comedogenicity">com.</span>
+                </th>
+                <th>ID-Rating</th>
+            </tr>
+        </thead>
+        <tbody><tr class=""><td>
+                    <a href="/ingredients/water"  class="black ingred-detail-link">Aqua (Water)</a>
+                </td>
+                <td><a href="/ingredient-functions/solvent"  class="lilac ingred-function-link">solvent</a></td>
+                <td></td>
+                <td></td></tr><tr class=""><td>
+                    <a href="/ingredients/glycerin"  class="black ingred-detail-link">Glycerin</a>
+                </td>
+                <td><a href="/ingredient-functions/skin-identical-ingredient"  class="lilac ingred-function-link">skin-identical ingredient</a>,
+                        <a href="/ingredient-functions/moisturizer-humectant"  class="lilac ingred-function-link">moisturizer/​humectant</a></td>
+                <td><span class="irrncom"><span class="colorcode0" title="irritancy: 0">0</span>,
+                        <span class="colorcode0" title="comedogenicity: 0">0</span></span></td>
+                <td><span class="our-take our-take-superstar">superstar</span></td></tr><tr class=""><td>
+                    <a href="/ingredients/caprylic-capric-triglyceride"  class="black ingred-detail-link">Caprylic/Capric Triglyceride</a>
+                </td>
+                <td><a href="/ingredient-functions/emollient"  class="lilac ingred-function-link">emollient</a></td>
+                <td></td>
+                <td></td></tr><tr class=""><td>
+                    <a href="/ingredients/bakuchiol"  class="black ingred-detail-link">Bakuchiol</a>
+                </td>
+                <td><a href="/ingredient-functions/cell-communicating-ingredient"  class="lilac ingred-function-link">cell-communicating ingredient</a>,
+                        <a href="/ingredient-functions/antioxidant"  class="lilac ingred-function-link">antioxidant</a>,
+                        <a href="/ingredient-functions/antimicrobial-antibacterial"  class="lilac ingred-function-link">antimicrobial/​antibacterial</a></td>
+                <td></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile"><td>
+                    <a href="/ingredients/niacinamide"  class="black ingred-detail-link">Niacinamide</a>
+                </td>
+                <td><a href="/ingredient-functions/cell-communicating-ingredient"  class="lilac ingred-function-link">cell-communicating ingredient</a>,
+                        <a href="/ingredient-functions/skin-brightening"  class="lilac ingred-function-link">skin brightening</a>,
+                        <a href="/ingredient-functions/anti-acne"  class="lilac ingred-function-link">anti-acne</a>,
+                        <a href="/ingredient-functions/moisturizer-humectant"  class="lilac ingred-function-link">moisturizer/​humectant</a></td>
+                <td></td>
+                <td><span class="our-take our-take-superstar">superstar</span></td></tr><tr class="showmore-mobile"><td>
+                    <a href="/ingredients/1-2-hexanediol"  class="black ingred-detail-link">1,2-Hexanediol</a>
+                </td>
+                <td><a href="/ingredient-functions/solvent"  class="lilac ingred-function-link">solvent</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile"><td>
+                    <a href="/ingredients/coco-caprylate-caprate"  class="black ingred-detail-link">Coco-Caprylate/Caprate</a>
+                </td>
+                <td><a href="/ingredient-functions/emollient"  class="lilac ingred-function-link">emollient</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile"><td>
+                    <a href="/ingredients/behenyl-alcohol"  class="black ingred-detail-link">Behenyl Alcohol</a>
+                </td>
+                <td><a href="/ingredient-functions/emollient"  class="lilac ingred-function-link">emollient</a>,
+                        <a href="/ingredient-functions/viscosity-controlling"  class="lilac ingred-function-link">viscosity controlling</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile"><td>
+                    <a href="/ingredients/cetearyl-olivate"  class="black ingred-detail-link">Cetearyl Olivate</a>
+                </td>
+                <td><a href="/ingredient-functions/emulsifying"  class="lilac ingred-function-link">emulsifying</a></td>
+                <td></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile"><td>
+                    <a href="/ingredients/sorbitan-olivate"  class="black ingred-detail-link">Sorbitan Olivate</a>
+                </td>
+                <td><a href="/ingredient-functions/emulsifying"  class="lilac ingred-function-link">emulsifying</a></td>
+                <td></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/psoralea-corylifolia-fruit-extract"  class="black ingred-detail-link">Psoralea Corylifolia Fruit Extract</a>
+                </td>
+                <td></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/carbomer"  class="black ingred-detail-link">Carbomer</a>
+                </td>
+                <td><a href="/ingredient-functions/viscosity-controlling"  class="lilac ingred-function-link">viscosity controlling</a></td>
+                <td><span class="irrncom"><span class="colorcode0" title="irritancy: 0">0</span>,
+                        <span class="colorcode1" title="comedogenicity: 1">1</span></span></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/arginine"  class="black ingred-detail-link">Arginine</a>
+                </td>
+                <td><a href="/ingredient-functions/skin-identical-ingredient"  class="lilac ingred-function-link">skin-identical ingredient</a></td>
+                <td></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/artemisia-vulgaris-oil"  class="black ingred-detail-link">Artemisia Vulgaris Oil</a>
+                </td>
+                <td><a href="/ingredient-functions/perfuming"  class="lilac ingred-function-link">perfuming</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/xanthan-gum"  class="black ingred-detail-link">Xanthan Gum</a>
+                </td>
+                <td><a href="/ingredient-functions/viscosity-controlling"  class="lilac ingred-function-link">viscosity controlling</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/citrus-aurantium-amara-flower-extract"  class="black ingred-detail-link">Citrus Aurantium Amara (Bitter Orange) Flower Extract</a>
+                </td>
+                <td></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/ethylhexylglycerin"  class="black ingred-detail-link">Ethylhexylglycerin</a>
+                </td>
+                <td><a href="/ingredient-functions/preservative"  class="lilac ingred-function-link">preservative</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/allantoin"  class="black ingred-detail-link">Allantoin</a>
+                </td>
+                <td><a href="/ingredient-functions/soothing"  class="lilac ingred-function-link">soothing</a></td>
+                <td><span class="irrncom"><span class="colorcode0" title="irritancy: 0">0</span>,
+                        <span class="colorcode0" title="comedogenicity: 0">0</span></span></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/adenosine"  class="black ingred-detail-link">Adenosine</a>
+                </td>
+                <td><a href="/ingredient-functions/cell-communicating-ingredient"  class="lilac ingred-function-link">cell-communicating ingredient</a></td>
+                <td></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/tocopherol"  class="black ingred-detail-link">Tocopherol</a>
+                </td>
+                <td><a href="/ingredient-functions/antioxidant"  class="lilac ingred-function-link">antioxidant</a></td>
+                <td><span class="irrncom"><span class="colorcode0" title="irritancy: 0">0</span>-<span class="colorcode3" title="irritancy: 3">3</span>,
+                        <span class="colorcode0" title="comedogenicity: 0">0</span>-<span class="colorcode3" title="comedogenicity: 3">3</span></span></td>
+                <td><span class="our-take our-take-goodie">goodie</span></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/lavandula-angustifolia-oil"  class="black ingred-detail-link">Lavandula Angustifolia (Lavender) Oil</a>
+                </td>
+                <td><a href="/ingredient-functions/antimicrobial-antibacterial"  class="lilac ingred-function-link">antimicrobial/​antibacterial</a>,
+                        <a href="/ingredient-functions/perfuming"  class="lilac ingred-function-link">perfuming</a></td>
+                <td></td>
+                <td><span class="our-take our-take-icky">icky</span></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/litsea-cubeba-fruit-oil"  class="black ingred-detail-link">Litsea Cubeba Fruit Oil</a>
+                </td>
+                <td><a href="/ingredient-functions/perfuming"  class="lilac ingred-function-link">perfuming</a></td>
+                <td></td>
+                <td></td></tr><tr class="showmore-mobile showmore-desktop"><td>
+                    <a href="/ingredients/ribes-nigrum-leaf-extract"  class="black ingred-detail-link">Ribes Nigrum (Black Currant) Leaf Extract</a>
+                </td>
+                <td><a href="/ingredient-functions/perfuming"  class="lilac ingred-function-link">perfuming</a></td>
+                <td></td>
+                <td></td></tr></tbody>
+    </table>
+    <div class="showmore-link paddingt30">
+        
+        
+        <button class="link-like showmore-link-mobile showmore-link">[more]</button>
+        
+        
+        <button class="link-like showmore-link-desktop showmore-link">[more]</button>
+        
+    
+    <button class="link-like showless-link">[less]</button>
+    </div>
+</div>
+    </div>
+
+    <div id="ingredlist-long-section">
+    <h2 class="section-v3-title std-side-padding"><div class="fs12">Benton Bakuchiol Serum</div>Ingredients explained</h2>
+
+<div class="std-side-padding paddingtl showmore-section" id="showmore-section-ingredlist-long"><div class="ingred-long  ">
+        <div class="ingred-header"><a href="/ingredients/water"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Aqua (Water)</a></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Water </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/solvent"
+                        class="product-long-ingredfunc-link"
+                        >solvent</a></span>
+            </span></div><div class="ingreddescbox"><p>Good old water, aka H2O. The most common skincare ingredient of all. You can usually find it right in the very first spot of the ingredient list, meaning it&rsquo;s the biggest thing out of all the stuff that makes up the product.&nbsp;</p>
+
+<p>It&rsquo;s mainly a <strong>solvent for ingredients</strong> that do not like to dissolve in oils but rather in water.&nbsp;</p><p><button class="link-like readmore arrowleft16 fs16">Expand to read more</button></p> <div class="display-none">
+
+<p>Once inside the skin, it hydrates, but not from the outside - putting pure water on the skin (hello long baths!) is drying.&nbsp;</p>
+
+<p>One more thing: the water used in cosmetics is purified and deionized (it means that almost all of the mineral ions inside it is removed). Like this, the products can stay more stable over time.&nbsp;</p>
+</div></div></div><div class="ingred-long showmore-mobile ">
+        <div class="ingred-header"><a href="/ingredients/glycerin"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Glycerin</a><span class="ourtake grey1"> - superstar</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Glycerol </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/skin-identical-ingredient"
+                        class="product-long-ingredfunc-link"
+                        >skin-identical ingredient</a>, <a href="/ingredient-functions/moisturizer-humectant"
+                        class="product-long-ingredfunc-link"
+                        >moisturizer/humectant</a></span>
+            </span>|<span class="itemprop">
+                    <span class="label klavikab grey1">Irritancy: </span> 
+                    <span class="value">  0</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span>
+                |<span class="itemprop">
+                    <span class="label klavikab grey1">Comedogenicity: </span> 
+                    <span class="value">0</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span></div><div class="ingreddescbox"><ul class="starlist"><li>A natural moisturizer that’s also in our skin </li><li>A super common, safe, effective and cheap molecule used for more than 50 years</li><li>Not only a simple moisturizer but knows much more: keeps the skin lipids between our skin cells in a healthy (liquid crystal) state, protects against irritation, helps to restore barrier</li><li>Effective from as low as 3% with even more benefits for dry skin at higher concentrations up to 20-40%</li><li>High-glycerin moisturizers are awesome for treating severely dry skin</li></ul>
+                <a href="/ingredients/glycerin#details" target="_blank" class="fs16 product-long-geekyingred-link">Read all the geeky details about Glycerin here >> </a>
+                <p></p></div></div><div class="ingred-long showmore-mobile ">
+        <div class="ingred-header"><a href="/ingredients/caprylic-capric-triglyceride"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Caprylic/​Capric Triglyceride</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/emollient"
+                        class="product-long-ingredfunc-link"
+                        >emollient</a></span>
+            </span></div><div class="ingreddescbox"><p>A super common <strong>emollient</strong> that <strong>makes your skin feel nice and smooth</strong>. It comes from coconut oil and glycerin, it&rsquo;s light-textured, clear, odorless and non-greasy. It&rsquo;s a nice ingredient that just feels good on the skin, is super well tolerated by every skin type and&nbsp;easy to formulate with. No wonder it&rsquo;s popular.&nbsp;</p>
+</div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/bakuchiol"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Bakuchiol</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Sytenol A, Phyto Retinol </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/cell-communicating-ingredient"
+                        class="product-long-ingredfunc-link"
+                        >cell-communicating ingredient</a>, <a href="/ingredient-functions/antioxidant"
+                        class="product-long-ingredfunc-link"
+                        >antioxidant</a>, <a href="/ingredient-functions/antimicrobial-antibacterial"
+                        class="product-long-ingredfunc-link"
+                        >antimicrobial/antibacterial</a></span>
+            </span></div><div class="ingreddescbox"><p>At first glance, you could think that Bakuchiol is your average <strong>plant extract</strong>. It is derived from the seeds of&nbsp;<a href="https://en.wikipedia.org/wiki/Psoralea_corylifolia" target="_blank">Psoralea Corylifolia</a>, aka Babchi,&nbsp;a&nbsp;plant important in <strong>Indian and Chinese medicine</strong>. The molecule was first isolated in 1973 and several anti-something properties are known about it: it has <strong>anti-inflammatory, antioxidant, anti-tumor, anti-bacterial&nbsp;</strong>and hepatoprotective magical abilities like plenty of other Ayurvedic plant extracts.</p>
+
+<p>What makes&nbsp;Bakuchiol a <strong>special snowflake</strong>&nbsp;is the recent discovery that it <strong>behaves on the skin in a way very similar to well-known <a href="https://incidecoder.com/ingredients/retinol" target="_blank">skincare superstar, retinol</a></strong>. While chemically, it has nothing to do with the <a href="https://incidecoder.com/search?query=retinoids" target="_blank">vitamin-A family, aka retinoids</a>, comparative gene expression profiling (a fancy way of saying that they compared how retinol and bakuchiol modify the way &nbsp;skin cells behave&nbsp;and produce&nbsp;important skin proteins such as collagen) shows that retinol and bakuchiol regulate skin cell behavior in a similar way.&nbsp;</p><p><button class="link-like readmore arrowleft16 fs16">Expand to read more</button></p> <div class="display-none">
+
+<p>To be more specific, both Bakuchiol and retinol <strong>upregulate&nbsp;collagen I, III and IV production</strong> and downregulate&nbsp;MMP, the evil collagen attacking&nbsp;enzyme in our skin. This means more collagen stays in our skin and we all know that more collagen equals <strong>firmer, more wrinkle-free skin</strong>.&nbsp; A 12-week&nbsp;clinical study using a 0.5% Bakuchiol formula with 17 people using it twice a day confirmed a significant improvement in lines and wrinkles, elasticity, firmness and an overall reduction in photo-damage. Also, the test formula was very well tolerated, without any retinol-like side effects.&nbsp;</p>
+
+<p>What&#39;s more, a 2018 <strong>double-blind&nbsp;study</strong> with 44 people compared<strong> 0.5% Bakuchiol with 0.5% retinol</strong> cream and found that &quot;<em><strong>bakuchiol is comparable to retinol</strong> in its ability to improve photoaging&nbsp;and is better tolerated than retinol</em>&quot;. A super promising result after 12 weeks.&nbsp;</p>
+
+<p>If you are not a daredevil-type who doesn&#39;t want to stop using a super well-proven retinol for a newbie like Bakuchiol, we have good news. The two also work&nbsp;very nicely together and <strong>Bakuchiol can actually help to&nbsp;stabilize</strong> the otherwise unstable and hard to formulate<strong> retinol</strong>.</p>
+
+<p>And we are still not done, as Bakuchiol shows not only anti-aging properties but also nice <strong>anti-acne</strong>&nbsp;effects. 1% Bakuchiol seems to be <strong>very effective in itself</strong> (57% reduction in acne after 6 weeks treatment) and <strong>even better when combined with 2% <a href="https://incidecoder.com/ingredients/salicylic-acid" target="_blank">salicylic acid</a></strong>&nbsp;(67% reduction in acne after 6 weeks). We like that Bakuchiol is such a good team player!&nbsp; The molecule works against acne in multiple ways: It downregulates 5&alpha;-reductase (a&nbsp;sebum-controlling enzyme), it is antibacterial (including P. acnes), anti-inflammatory and it inhibits lipid-peroxidation, an evil oxidative process that is recently thought to be a very early trigger in the acne process.&nbsp;</p>
+
+<p>We feel that this description is becoming very long so we will just mention that Bakuchiol also seems to <strong>positively regulate hydration-related genes</strong> such as Aquaporin 3 and also shows some <strong>melanin-inhibiting properties</strong>.&nbsp;</p>
+
+<p><strong>Overall</strong>, we think Bakuchiol is an awesome&nbsp;molecule with <strong>lots of promise both for anti-aging and anti-acne</strong>. But the proof compared to the well-established superstars is far from solid, so in a skincare routine, we would rather add Bakuchiol next to retinol than straight up replace it. Unless you are a gimme-the-newest-shiny-thing-under-the-sun-type.&nbsp;</p>
+</div></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/niacinamide"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Niacinamide</a><span class="ourtake grey1"> - superstar</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">vitamin B3, nicotinamide </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/cell-communicating-ingredient"
+                        class="product-long-ingredfunc-link"
+                        >cell-communicating ingredient</a>, <a href="/ingredient-functions/skin-brightening"
+                        class="product-long-ingredfunc-link"
+                        >skin brightening</a>, <a href="/ingredient-functions/anti-acne"
+                        class="product-long-ingredfunc-link"
+                        >anti-acne</a>, <a href="/ingredient-functions/moisturizer-humectant"
+                        class="product-long-ingredfunc-link"
+                        >moisturizer/humectant</a></span>
+            </span></div><div class="ingreddescbox"><ul class="starlist"><li>A multi-functional skincare superstar with several proven benefits for the skin</li><li>Great anti-aging, wrinkle smoothing ingredient used at 4-5% concentration</li><li>Fades brown spots alone or in combination with amino sugar, acetyl glucosamine</li><li>Increases ceramide synthesis that results in a stronger, healthier skin barrier and better skin hydration</li><li>Can help to improve several skin conditions including acne, rosacea, and atopic dermatitis</li></ul>
+                <a href="/ingredients/niacinamide#details" target="_blank" class="fs16 product-long-geekyingred-link">Read all the geeky details about Niacinamide here >> </a>
+                <p></p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/1-2-hexanediol"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >1,2-Hexanediol</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/solvent"
+                        class="product-long-ingredfunc-link"
+                        >solvent</a></span>
+            </span></div><div class="ingreddescbox"><p>A really multi-functional helper ingredient that can do several things in a skincare product: it can bring a soft and pleasant feel to the formula, it can act as a<strong> humectant and emollient</strong>, it can be a <strong>solvent</strong> for some other ingredients (for example it can help to stabilize perfumes&nbsp;in watery products) and it can also help to disperse pigments more evenly in makeup products. And that is still not all: it can also <strong>boost</strong> the antimicrobial activity of <strong>preservatives</strong>.&nbsp;</p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/coco-caprylate-caprate"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Coco-Caprylate/​Caprate</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/emollient"
+                        class="product-long-ingredfunc-link"
+                        >emollient</a></span>
+            </span></div><div class="ingreddescbox"><p>A light&nbsp;<strong>emollient ester </strong>(C8-10 fatty acids connected to C12-18 fatty alcohols) that absorbs quickly and leaves a dry but&nbsp;<strong>silky finish</strong> on the skin. In terms of skin feel, it is similar to&nbsp;<a target="_blank" href="https://incidecoder.com/ingredients/dicaprylyl-carbonate">Dicaprylyl Carbonate</a>, another commonly used light emollient.&nbsp;</p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/behenyl-alcohol"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Behenyl Alcohol</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/emollient"
+                        class="product-long-ingredfunc-link"
+                        >emollient</a>, <a href="/ingredient-functions/viscosity-controlling"
+                        class="product-long-ingredfunc-link"
+                        >viscosity controlling</a>, <a href="/ingredient-functions/emulsion-stabilising"
+                        class="product-long-ingredfunc-link"
+                        >emulsion stabilising</a></span>
+            </span></div><div class="ingreddescbox"><p>A fatty alcohol (the non-drying type with a long oil loving chain of 22 carbon atoms) that is used to<strong> increase the viscosity</strong> of the formula and it also helps the oily and the watery parts to stay nicely mixed together (called <strong>emulsion stabilizing</strong>).&nbsp;</p>
+</div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/cetearyl-olivate"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Cetearyl Olivate</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Part of Olivem 1000 </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/emulsifying"
+                        class="product-long-ingredfunc-link"
+                        >emulsifying</a></span>
+            </span></div><div class="ingreddescbox"><p>An ester that comes from <a href="https://incidecoder.com/ingredients/cetearyl-alcohol">Cetearyl alcohol</a> and the fatty acids of olive oil. It often&nbsp;comes to the formula coupled with <a href="https://incidecoder.com/ingredients/sorbitan-olivate">Sorbitan Olivate</a>&nbsp;as the two together form the well-known, <strong>natural&nbsp;emulsifier</strong> trade named Olivem 1000.&nbsp;</p>
+
+<p>Other than helping oil and water to blend, the main thing of Olivem 1000 is <strong>generating liquid crystal structures</strong> that are similar to the lipid structures of the stratum corneum (the outermost layer of the skin). Thanks to this, Olivem 1000 doubles as an active ingredient with significant <strong>moisturizing, barrier-repairing and soothing</strong> properties.</p><p><button class="link-like readmore arrowleft16 fs16">Expand to read more</button></p> <div class="display-none">
+
+<p>It also helps to deliver water-soluble actives such as caffeine more effectively, and can even boost SPF in sunscreen formulas. Its&nbsp;typical use level&nbsp;is 1-5% and has wide compatibility with other actives and oils.</p>
+
+<p>Overall, a&nbsp;real multi-tasker with nice sensorial properties. No wonder&nbsp;it is so popular.</p>
+</div></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/sorbitan-olivate"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Sorbitan Olivate</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Part of Olivem 1000 </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/emulsifying"
+                        class="product-long-ingredfunc-link"
+                        >emulsifying</a></span>
+            </span></div><div class="ingreddescbox"><p>An ester coming from <a href="https://incidecoder.com/ingredients/sorbitol">sorbitol</a> and the fatty acids of olive oil. It is part of the <strong>popular emulsifier</strong> trade named Olivem 1000 that is well-known for <strong>generating biomimetic&nbsp;liquid crystal structures</strong>. We have more info on <a href="https://incidecoder.com/ingredients/cetearyl-olivate">Olivem 1000 at Cetearyl Olivate &gt;&gt;</a></p>
+</div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/psoralea-corylifolia-fruit-extract"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Psoralea Corylifolia Fruit Extract</a></div><div class="ingreddescbox"><p>
+                <img class="clock-icon" src="https://incidecoder-assets.storage.googleapis.com/assets/img/000174-clock-black.svg">
+                <i>We don't have description for this ingredient yet.</i></p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/carbomer"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Carbomer</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/viscosity-controlling"
+                        class="product-long-ingredfunc-link"
+                        >viscosity controlling</a>, <a href="/ingredient-functions/emulsion-stabilising"
+                        class="product-long-ingredfunc-link"
+                        >emulsion stabilising</a></span>
+            </span>|<span class="itemprop">
+                    <span class="label klavikab grey1">Irritancy: </span> 
+                    <span class="value">  0</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span>
+                |<span class="itemprop">
+                    <span class="label klavikab grey1">Comedogenicity: </span> 
+                    <span class="value">1</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span></div><div class="ingreddescbox"><p>A big molecule created from repeated subunits (a polymer of acrylic acid) that magically <strong>converts a liquid&nbsp;into a nice gel formula</strong>.&nbsp; It usually has to be neutralized with a base (such as<a href="https://incidecoder.com/ingredients/sodium-hydroxide" target="_blank"> sodium hydroxide</a>) for the thickening to occur and it <strong>creates viscous, clear gels</strong> that also feel nice and non-tacky on the skin. No wonder, it is a very popular and common ingredient. Typically used at 1% or less in most formulations.</p>
+</div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/arginine"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Arginine</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/skin-identical-ingredient"
+                        class="product-long-ingredfunc-link"
+                        >skin-identical ingredient</a></span>
+            </span></div><div class="ingreddescbox"><p>A semi-essential (infants cannot synthesize it, but adults can) <strong>amino acid</strong> that is one of the primary building blocks of hair keratin and skin collagen. It&#39;s a <strong>natural moisturizing factor</strong>, a skin hydrator&nbsp;and might also help to <a target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/24631228">speed up wound healing</a>.&nbsp;</p><p>Arginine usually has a&nbsp;positive charge (cationic) that makes it <strong>substantive to skin and hair</strong> (those are more negatively charged surfaces) and an excellent film former.&nbsp; Thanks to the positive charge, it also creates a complex with AHAs (AHAs like to lose a hydrogen ion and be negatively charged, so the positive and the negative ions attract each other) that causes a &quot;time-release AHA effect&quot; and <strong>reduces the irritation associated with AHAs</strong>.&nbsp;</p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/artemisia-vulgaris-oil"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Artemisia Vulgaris Oil</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/perfuming"
+                        class="product-long-ingredfunc-link"
+                        >perfuming</a></span>
+            </span></div><div class="ingreddescbox"><p>
+                <img class="clock-icon" src="https://incidecoder-assets.storage.googleapis.com/assets/img/000174-clock-black.svg">
+                <i>We don't have description for this ingredient yet.</i></p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/xanthan-gum"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Xanthan Gum</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/viscosity-controlling"
+                        class="product-long-ingredfunc-link"
+                        >viscosity controlling</a>, <a href="/ingredient-functions/emulsion-stabilising"
+                        class="product-long-ingredfunc-link"
+                        >emulsion stabilising</a></span>
+            </span></div><div class="ingreddescbox"><p>It&#39;s one of the most commonly used <strong>thickener</strong>s and <strong>emulsion stabilizers</strong>. If the product is too runny, a little xanthan gum will make it more gel-like.&nbsp;Used alone, it can make the formula sticky and it is a good team player so it is usually combined with other thickeners and so-called&nbsp;rheology modifiers (helper ingredients that adjust the flow and thus the feel of the formula). The typical use level of Xantha Gum is below 1%, it is usually in the 0.1-0.5% range.&nbsp;</p>
+
+<p>Btw, Xanthan gum is all natural, a chain of sugar molecules (polysaccharide) produced from individual sugar molecules (<a href="https://incidecoder.com/ingredients/glucose" target="_blank">glucose</a> and <a href="https://incidecoder.com/ingredients/sucrose" target="_blank">sucrose</a>) via fermentation. It&rsquo;s approved by Ecocert and also used in the food industry&nbsp;(E415).&nbsp;</p>
+</div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/citrus-aurantium-amara-flower-extract"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Citrus Aurantium Amara (Bitter Orange) Flower Extract</a></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Orange Flower Absolute </span></span></div><div class="ingreddescbox"><p>
+                <img class="clock-icon" src="https://incidecoder-assets.storage.googleapis.com/assets/img/000174-clock-black.svg">
+                <i>We don't have description for this ingredient yet.</i></p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/ethylhexylglycerin"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Ethylhexylglycerin</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/preservative"
+                        class="product-long-ingredfunc-link"
+                        >preservative</a>, <a href="/ingredient-functions/deodorant"
+                        class="product-long-ingredfunc-link"
+                        >deodorant</a></span>
+            </span></div><div class="ingreddescbox"><p>If you have spotted&nbsp;ethylhexylglycerin&nbsp;on the ingredient list, most probably you will see there also the current IT-preservative,&nbsp;<a href="https://incidecoder.com/ingredients/phenoxyethanol">phenoxyethanol</a>. They are good friends because&nbsp;ethylhexylglycerin&nbsp;can <strong>boost the effectiveness of phenoxyethanol </strong>(and other preservatives) and as an added bonus it feels nice on the skin too.</p>
+
+<p>Also,&nbsp;it&#39;s an effective <strong>deodorant</strong> and a medium spreading&nbsp;<strong>emollient</strong>.&nbsp;</p>
+</div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/allantoin"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Allantoin</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/soothing"
+                        class="product-long-ingredfunc-link"
+                        >soothing</a></span>
+            </span>|<span class="itemprop">
+                    <span class="label klavikab grey1">Irritancy: </span> 
+                    <span class="value">  0</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span>
+                |<span class="itemprop">
+                    <span class="label klavikab grey1">Comedogenicity: </span> 
+                    <span class="value">0</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span></div><div class="ingreddescbox"><p>Super common <strong>soothing ingredient</strong>. It can be found naturally in the roots &amp; leaves of the comfrey plant, but more often than not what&#39;s in the cosmetic&nbsp;products&nbsp;is produced synthetically.&nbsp;</p><p>It&#39;s not only soothing but it&#39; also <strong>skin-softening and protecting</strong> and can <strong>promote wound healing</strong>.</p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/adenosine"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Adenosine</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/cell-communicating-ingredient"
+                        class="product-long-ingredfunc-link"
+                        >cell-communicating ingredient</a></span>
+            </span></div><div class="ingreddescbox"><p>Adenosine is an important little <strong>compound in our body</strong> that has a vital <strong>cell-signalling role</strong>. Research on smearing it on our face is also promising and shows so far a couple of things:</p><ul><li>It can help with<strong> wound healing</strong></li><li>It&rsquo;s a good <strong>anti-inflammatory</strong> agent</li><li>It might even help with skin&rsquo;s own collagen production and improve skin firmness and elasticity</li><li>It helps with <strong>barrier repair and protection</strong></li><li>It might be even useful for the hair helping with hair thickness and hair growth</li></ul></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/tocopherol"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Tocopherol</a><span class="ourtake grey1"> - goodie</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Vitamin E </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/antioxidant"
+                        class="product-long-ingredfunc-link"
+                        >antioxidant</a></span>
+            </span>|<span class="itemprop">
+                    <span class="label klavikab grey1">Irritancy: </span> 
+                    <span class="value">  0-3</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span>
+                |<span class="itemprop">
+                    <span class="label klavikab grey1">Comedogenicity: </span> 
+                    <span class="value">0-3</span>
+                    
+<span class="info-circle info-circle-comedog-long our-take-no-take tooltip grey1" title="<div class='ingred-tooltip-text'>Read where this data comes from and how to interpret it. <a href='/comedogenic-rating' target='_blank' class='italic'>[more]</a></div>"></span>
+
+                </span></div><div class="ingreddescbox"><ul class="starlist"><li>Primary fat-soluble antioxidant in our skin</li><li>Significant photoprotection against UVB rays</li><li>Vit C + Vit E work in synergy and provide great photoprotection</li><li>Has emollient properties</li><li>Easy to formulate, stable and relatively inexpensive</li></ul>
+                <a href="/ingredients/tocopherol#details" target="_blank" class="fs16 product-long-geekyingred-link">Read all the geeky details about Tocopherol here >> </a>
+                <p></p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/lavandula-angustifolia-oil"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Lavandula Angustifolia (Lavender) Oil</a><span class="ourtake grey1"> - icky</span></div><div class="fs16 ingredquickinfo"><span class="itemprop"><span class="label klavikab grey1">Also-called:</span> <span class="value">Lavender Essential Oil </span></span>|<span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/antimicrobial-antibacterial"
+                        class="product-long-ingredfunc-link"
+                        >antimicrobial/antibacterial</a>, <a href="/ingredient-functions/perfuming"
+                        class="product-long-ingredfunc-link"
+                        >perfuming</a></span>
+            </span></div><div class="ingreddescbox"><p>We have to start by writing how fascinated we are by the amazing lavender fields of Provance and we do love pretty much everything about lavender: its look, its color,&nbsp;its scent.... but, when it comes to skincare, <strong>lavender is a&nbsp;questionable ingredient</strong> that you probably do not want in your skincare products.</p><p>First, let us start with the pros: it has a <strong>lovely scent</strong>, so no wonder that it is popular as a fragrance ingredient&nbsp;in natural products wanting to be free from synthetic fragrances but still wanting to smell nice. The scent of lavender is&nbsp;famous for having <strong>calming and relaxing properties</strong> and some smallish scientific studies do support that. Inhaled volatile compounds seem&nbsp;to have a soothing effect on the central nervous system and studies have shown that lavender aromatherapy can&nbsp;improve patient&#39;s anxiety and experience in hospitals. &nbsp;&nbsp;</p><p><button class="link-like readmore arrowleft16 fs16">Expand to read more</button></p> <div class="display-none"><p>Another pro is that lavender oil has some nice <strong>antimicrobial and antibacterial properties</strong>. It also has some <strong>local&nbsp;pain relieving and muscle relaxing magical powers</strong>. Lavender oil is also often claimed to have anti-inflammatory properties. We have found a study confirming this but it was the essential oil of the leaves and not the much more commonly used flowers and the two differ in their main chemical compounds very much. (The main components of the flower essential oil are linalyl acetate and linalool [around 80% the two together] while it is 1,8-Cineole [around 65%] in the essential oil of the leaves.)</p><p>Now, let us look at the cons: similar to a bunch of other essential oils, the <strong>main components</strong> of lavender oil&nbsp;are <strong>potentially irritating fragrant components</strong>. The two main components are&nbsp;<em>linalyl acetate (about 50%) and linalool (about 35%)</em> and both autoxidise on exposure to the air forming strong contact allergens. To make things even worse, lavender oil seems to be <strong>cytotoxic from concentrations as low as 0.25%</strong> (concentration up to 0.125% were&nbsp;ok).&nbsp;</p><p>There is also an often cited Japanese study that made patch tests with lavender oil for 9 years and found a huge increase in lavender oil sensitivity in 1997 (from 1.1% in 1990 to 8.7% in 1997 and 13.9% in 1998). This was the year when using dried lavender flowers in pillows, wardrobes, and elsewhere became fashionable in Japan, so it seems that <strong>increased exposure to lavender&nbsp;results in increased risk of sensitivity</strong>.</p><p>Overall, it makes us sad to write bad things about such a lovely plant, but when it comes to skincare, you will be better off without lavender.&nbsp;</p></div></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/litsea-cubeba-fruit-oil"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Litsea Cubeba Fruit Oil</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/perfuming"
+                        class="product-long-ingredfunc-link"
+                        >perfuming</a></span>
+            </span></div><div class="ingreddescbox"><p>
+                <img class="clock-icon" src="https://incidecoder-assets.storage.googleapis.com/assets/img/000174-clock-black.svg">
+                <i>We don't have description for this ingredient yet.</i></p></div></div><div class="ingred-long showmore-mobile showmore-desktop ">
+        <div class="ingred-header"><a href="/ingredients/ribes-nigrum-leaf-extract"
+                  class="product-long-ingred-link cardingtitle klavikab fs22 lilac"
+                  >Ribes Nigrum (Black Currant) Leaf Extract</a></div><div class="fs16 ingredquickinfo"><span class="itemprop">
+                <span class="label klavikab grey1">What-it-does: </span> 
+                <span class="value"><a href="/ingredient-functions/perfuming"
+                        class="product-long-ingredfunc-link"
+                        >perfuming</a></span>
+            </span></div><div class="ingreddescbox"><p>
+                <img class="clock-icon" src="https://incidecoder-assets.storage.googleapis.com/assets/img/000174-clock-black.svg">
+                <i>We don't have description for this ingredient yet.</i></p></div></div><div class="showmore-link paddingb30">
+        
+        <button class="link-like showmore-link-mobile showmore-link">[more]</button>
+        
+        
+        <button class="link-like showmore-link-desktop showmore-link">[more]</button>
+        
+    
+    <button class="link-like showless-link">[less]</button></div>
+</div>
+    </div>
+
+    <div class="bottom-recommendation-section">
+        <h2 class="section-v3-title std-side-padding">You may also want to take a look at...</h2>
+        <div class="std-side-padding paddingtb30" id="bottom-recommendations">
+            
+
+    <div class="carousel-before-init-animation">
+        <div class="loading-animation sk-three-bounce">
+            <div class="sk-child sk-bounce1"></div>
+            <div class="sk-child sk-bounce2"></div>
+            <div class="sk-child sk-bounce3"></div>
+        </div>
+    </div>
+    <div class="carousel-container">
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                
+            </div>
+        </div>
+        <div class="my-swiper-button-prev my-swiper-button">
+            <svg viewBox="35 0 25 120" role="img" aria-label="Prev" focusable="false">
+                <path d="M 75,100 L 45,50 75,0">
+                </path>
+            </svg>
+        </div>
+        <div class="my-swiper-button-next my-swiper-button">
+            <svg viewBox="40 0 25 120" role="img" aria-label="Next" focusable="false">
+                <path d="M 25,100 L 55,50 25,0">
+                </path>
+            </svg>
+        </div>
+    </div>
+
+
+        </div>
+    </div>
+ 
+
+</div>
+
+<span class="tooltip_templates">
+
+    <span id="tt-water">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/solvent" class="fs16 lilac tooltip-func-link" >solvent</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                Normal (well kind of - it&#39;s purified and deionized) water. Usually the main solvent in cosmetic products. 
+                    <a href="/ingredients/water#details"  class="italic">[more]</a></div></span>
+    <span id="tt-glycerin">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/skin-identical-ingredient" class="fs16 lilac tooltip-func-link" >skin-identical ingredient</a><span class="fs16"> | </span><a href="/ingredient-functions/moisturizer-humectant" class="fs16 lilac tooltip-func-link" >moisturizer/humectant</a></td>
+            </tr><tr>
+            <td>
+            irritancy,&nbsp;com.
+            </td>
+            <td>
+            <span class="irrncom fs16"><span class="colorcode0" title="irritancy: 0">0</span>, <span class="colorcode0" title="comedogenicity: 0">0</span></span>
+            </td>
+            </tr></table><div class="ingred-tooltip-text">
+                A real oldie but a goodie. Great natural moisturizer and skin-identical ingredient that plays an important role in skin hydration and general skin health.
+                    <a href="/ingredients/glycerin#details"  class="italic">[more]</a></div></span>
+    <span id="tt-caprylic-capric-triglyceride">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/emollient" class="fs16 lilac tooltip-func-link" >emollient</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                A very common emollient that makes your skin feel nice and smooth. Comes from coconut oil and glycerin, it’s light-textured, clear, odorless and non-greasy.
+                    <a href="/ingredients/caprylic-capric-triglyceride#details"  class="italic">[more]</a></div></span>
+    <span id="tt-bakuchiol">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/cell-communicating-ingredient" class="fs16 lilac tooltip-func-link" >cell-communicating ingredient</a><span class="fs16"> | </span><a href="/ingredient-functions/antioxidant" class="fs16 lilac tooltip-func-link" >antioxidant</a><span class="fs16"> | </span><a href="/ingredient-functions/antimicrobial-antibacterial" class="fs16 lilac tooltip-func-link" >antimicrobial/antibacterial</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                At first glance, you could think that Bakuchiol is your average plant extract. It is derived from the seeds of&nbsp;Psoralea Corylifolia, aka Babchi,&nbsp;a&nbsp;plant important in Indian and Chinese medicine.
+                    <a href="/ingredients/bakuchiol#details"  class="italic">[more]</a></div></span>
+    <span id="tt-niacinamide">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/cell-communicating-ingredient" class="fs16 lilac tooltip-func-link" >cell-communicating ingredient</a><span class="fs16"> | </span><a href="/ingredient-functions/skin-brightening" class="fs16 lilac tooltip-func-link" >skin brightening</a><span class="fs16"> | </span><a href="/ingredient-functions/anti-acne" class="fs16 lilac tooltip-func-link" >anti-acne</a><span class="fs16"> | </span><a href="/ingredient-functions/moisturizer-humectant" class="fs16 lilac tooltip-func-link" >moisturizer/humectant</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                A multi-functional skincare superstar that has clinically proven anti-aging, skin lightening, anti-inflammatory and barrier repair properties. 
+                    <a href="/ingredients/niacinamide#details"  class="italic">[more]</a></div></span>
+    <span id="tt-1-2-hexanediol">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/solvent" class="fs16 lilac tooltip-func-link" >solvent</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                A multi-functional helper ingredient that acts as a humectant and emollient. It&#39;s also a solvent and can boost the effectiveness of preservatives.
+                    <a href="/ingredients/1-2-hexanediol#details"  class="italic">[more]</a></div></span>
+    <span id="tt-coco-caprylate-caprate">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/emollient" class="fs16 lilac tooltip-func-link" >emollient</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                A light&nbsp;emollient ester (C8-10 fatty acids connected to C12-18 fatty alcohols) that absorbs quickly and leaves a dry but&nbsp;silky finish on the skin. In terms of skin feel, it is similar to&nbsp;Dicaprylyl Carbonate, another commonly used light emollient.&nbsp;
+                    <a href="/ingredients/coco-caprylate-caprate#details"  class="italic">[more]</a></div></span>
+    <span id="tt-behenyl-alcohol">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/emollient" class="fs16 lilac tooltip-func-link" >emollient</a><span class="fs16"> | </span><a href="/ingredient-functions/viscosity-controlling" class="fs16 lilac tooltip-func-link" >viscosity controlling</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                A fatty alcohol (the non-drying type) that is used to increase the viscosity of the formula and stabilize emulsions.
+                    <a href="/ingredients/behenyl-alcohol#details"  class="italic">[more]</a></div></span>
+    <span id="tt-cetearyl-olivate">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/emulsifying" class="fs16 lilac tooltip-func-link" >emulsifying</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                Part of Olivem 1000, a natural emulsifier duo that is known for forming biomimetic liquid crystal structures. It doubles as an active ingredient with barrier repairing and soothing properties. 
+                    <a href="/ingredients/cetearyl-olivate#details"  class="italic">[more]</a></div></span>
+    <span id="tt-sorbitan-olivate">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/emulsifying" class="fs16 lilac tooltip-func-link" >emulsifying</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                An ester coming from sorbitol and the fatty acids of olive oil. It often comes to the formula coupled with Cetearyl Olivate and the two together help water and oil to blend (emulsifier). It&#39;s a natural and Ecocert approved duo.</div></span>
+    <span id="tt-carbomer">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/viscosity-controlling" class="fs16 lilac tooltip-func-link" >viscosity controlling</a></td>
+            </tr><tr>
+            <td>
+            irritancy,&nbsp;com.
+            </td>
+            <td>
+            <span class="irrncom fs16"><span class="colorcode0" title="irritancy: 0">0</span>, <span class="colorcode1" title="comedogenicity: 1">1</span></span>
+            </td>
+            </tr></table><div class="ingred-tooltip-text">
+                A handy white powder that magically converts a liquid into a nice gel formula.
+                    <a href="/ingredients/carbomer#details"  class="italic">[more]</a></div></span>
+    <span id="tt-arginine">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/skin-identical-ingredient" class="fs16 lilac tooltip-func-link" >skin-identical ingredient</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                An amino acid that is one of the primary building blocks of hair keratin and skin collagen. It&#39;s a natural moisturizing factor and might also help to speed up wound healing. 
+                    <a href="/ingredients/arginine#details"  class="italic">[more]</a></div></span>
+    <span id="tt-artemisia-vulgaris-oil">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/perfuming" class="fs16 lilac tooltip-func-link" >perfuming</a></td>
+            </tr></table></span>
+    <span id="tt-xanthan-gum">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/viscosity-controlling" class="fs16 lilac tooltip-func-link" >viscosity controlling</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                A super commonly used thickener and emulsion stabilizer. 
+                    <a href="/ingredients/xanthan-gum#details"  class="italic">[more]</a></div></span>
+    <span id="tt-ethylhexylglycerin">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/preservative" class="fs16 lilac tooltip-func-link" >preservative</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                It can boost the effectiveness of phenoxyethanol (and other preservatives) and as an added bonus it feels nice on the skin too.
+                    <a href="/ingredients/ethylhexylglycerin#details"  class="italic">[more]</a></div></span>
+    <span id="tt-allantoin">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/soothing" class="fs16 lilac tooltip-func-link" >soothing</a></td>
+            </tr><tr>
+            <td>
+            irritancy,&nbsp;com.
+            </td>
+            <td>
+            <span class="irrncom fs16"><span class="colorcode0" title="irritancy: 0">0</span>, <span class="colorcode0" title="comedogenicity: 0">0</span></span>
+            </td>
+            </tr></table><div class="ingred-tooltip-text">
+                Super common soothing ingredient. It can be found naturally in the roots &amp; leaves of the comfrey plant, but more often than not what&#39;s in the cosmetic&nbsp;products&nbsp;is produced synthetically.&nbsp;It&#39;s not only soothing but it&#39;
+                    <a href="/ingredients/allantoin#details"  class="italic">[more]</a></div></span>
+    <span id="tt-adenosine">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/cell-communicating-ingredient" class="fs16 lilac tooltip-func-link" >cell-communicating ingredient</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                An important compound in our body that has a vital cell-signalling role. It is wound healing, anti-inflammatory and can help with barrier repair.
+                    <a href="/ingredients/adenosine#details"  class="italic">[more]</a></div></span>
+    <span id="tt-tocopherol">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/antioxidant" class="fs16 lilac tooltip-func-link" >antioxidant</a></td>
+            </tr><tr>
+            <td>
+            irritancy,&nbsp;com.
+            </td>
+            <td>
+            <span class="irrncom fs16"><span class="colorcode0" title="irritancy: 0">0</span>-<span class="colorcode3" title="irritancy: 3">3</span>, <span class="colorcode0" title="comedogenicity: 0">0</span>-<span class="colorcode3" title="comedogenicity: 3">3</span></span>
+            </td>
+            </tr></table><div class="ingred-tooltip-text">
+                Pure Vitamin E. Great antioxidant that gives significant photoprotection against UVB rays. Works in synergy with Vitamin C. 
+                    <a href="/ingredients/tocopherol#details"  class="italic">[more]</a></div></span>
+    <span id="tt-lavandula-angustifolia-oil">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/antimicrobial-antibacterial" class="fs16 lilac tooltip-func-link" >antimicrobial/antibacterial</a><span class="fs16"> | </span><a href="/ingredient-functions/perfuming" class="fs16 lilac tooltip-func-link" >perfuming</a></td>
+            </tr></table><div class="ingred-tooltip-text">
+                Lavender - essential oil with a calming scent and antimicrobial properties. Contains fragrant components (linalyl acetate - 50% and linalool - 35%) and might be cytotoxic from 0.25%.
+                    <a href="/ingredients/lavandula-angustifolia-oil#details"  class="italic">[more]</a></div></span>
+    <span id="tt-litsea-cubeba-fruit-oil">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/perfuming" class="fs16 lilac tooltip-func-link" >perfuming</a></td>
+            </tr></table></span>
+    <span id="tt-ribes-nigrum-leaf-extract">
+        <table class="ingred-tooltip-table"><tr>
+            <td>what&#8209;it&#8209;does</td>
+            <td><a href="/ingredient-functions/perfuming" class="fs16 lilac tooltip-func-link" >perfuming</a></td>
+            </tr></table></span></span>
+
+
+        
+        </div><!-- end of content-->
+        <div class="footer">
+            <div class="maxwidth">
+                <div class="emailbox">
+                    <div class="simple-side-padding">
+                        We do a Best of INCIDecoder email once a month with the most interesting products and ingredients we bump into.
+
+                        
+                            <form method="post" action="/savemail" id="emailform">
+
+
+<div class="form">
+    <input type="email" value="" name="email" class="email" placeholder="Your email address">
+
+</div>
+<div class="failure hidden">
+An error has occurred. Please try again later!
+</div>
+
+<div class="recaptcha hidden">
+  <div>Click below to subscribe:</div>
+  <div class="g-recaptcha inline-block" data-sitekey="6LdmrlAaAAAAAIvDamh1lwjL-tB3hVO57XIy90eo" id="email-signup-recaptcha"></div>
+</div>
+
+<div class="success hidden paddingt30">
+    <span class="klavikab">
+        Thanks. :)  You are almost done: please check your mailbox to confirm your email!
+    </span>
+</div>
+
+</form>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="crfooter">
+                <div class="klavika simple-side-padding">
+                    *INCI is a list of the standardized and internationally accepted names used in the declaration of ingredients on cosmetic and personal care products. It is published by the Personal Care Product Council.
+                </div>
+                <div class="klavika maxwidth">
+                    Copyright 2025 | <a class="white" href="/about">About</a>
+                </div>
+            </div>
+
+        </div> <!-- end of footer-->
+    </div>  
+  
+    <!-- begin scripts -->
+    
+<script type="application/json" id="global">
+{"assetsUrl": "https://incidecoder-assets.storage.googleapis.com/assets", "captchaKey": "6LdmrlAaAAAAAIvDamh1lwjL-tB3hVO57XIy90eo", "current_user": {}, "product": {"fullname": "Benton Bakuchiol Serum", "slug": "benton-bakuchiol-serum"}, "productModbyUserName": "dorina", "productSlug": "benton-bakuchiol-serum", "recommendUrl": "/products/recommend/benton-bakuchiol-serum"}
+</script>
+
+    <script src="https://incidecoder-assets.storage.googleapis.com/assets/bundles/js/manifest.0791ffe854415dd66d46.js" crossorigin="anonymous" nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg"></script><script src="https://incidecoder-assets.storage.googleapis.com/assets/bundles/js/vendors.b48bd4b608a5eacb6abc.js" crossorigin="anonymous" nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg"></script><script src="https://incidecoder-assets.storage.googleapis.com/assets/bundles/js/base.b18071fe6e4adbb07534.js" crossorigin="anonymous" nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg"></script><script src="https://incidecoder-assets.storage.googleapis.com/assets/bundles/js/product-details-user.931f857c3c30b1fbb12b.js" crossorigin="anonymous" nonce="-AxU0BVRMVsSAiJqVtFKqNNcKksuxdCY2mHk0_jONZg"></script>
+    <!-- end scripts -->
+
+</body>
+</html>
+

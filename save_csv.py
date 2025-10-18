@@ -1,7 +1,14 @@
 import csv
 from web_search import fetch_data 
 
+
 def save_product_data(product_name, label):
+
+    """ 
+    This function saves product names and product data (ingredients, good or bad verdict)
+    in a csv file.
+    """
+
     product_data = fetch_data(search_term=product_name) #="celimax dual")
     
     if not product_data:
@@ -41,3 +48,38 @@ def save_product_data(product_name, label):
             writer = csv.writer(data, delimiter=',')
             writer.writerow(product_data + [label])
             data.close()
+
+
+def save_ingredients_data():
+
+    products = {}
+
+    with open("product_data.csv", 'r', newline='') as csvfile:
+        csv_reader = csv.reader(csvfile) #created a csv.reader object
+
+        for row in csv_reader:
+            if not row:
+                continue
+            products[row[0]] = row[1:]
+
+    # storing good and bad product names and ingredients list only
+    good_products = [] 
+    bad_products = []
+    all_good_ingredients = []
+    all_bad_ingredients = []
+    all_good_ingredients_set = set()
+    all_bad_ingredients_set = set()
+
+
+    for key,val in products.items():
+        if val[-1] == "good":
+            good_products.append([key, val[:-1]])
+            all_good_ingredients.append(val[:-1])
+            all_good_ingredients_set.update(val[:-1])
+    
+        else:
+            bad_products.append([key, val[:-1]])
+            all_bad_ingredients.append(val[:-1])
+            all_bad_ingredients_set.update(val[:-1])
+
+    #complete
