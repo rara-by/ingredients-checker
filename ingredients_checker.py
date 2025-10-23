@@ -1,6 +1,7 @@
 from save_csv import save_product_data 
 
 # url="https://incidecoder.com/"
+# Python env "env310"
 
 product_list = []
 product_data = []

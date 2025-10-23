@@ -48,6 +48,10 @@ def save_product_data(product_name, label):
             writer = csv.writer(data, delimiter=',')
             writer.writerow(product_data + [label])
             data.close()
+        print("Product list updated.")
+
+    else:
+        print("Product already listed, not updated.")
 
 
 def save_ingredients_data():
