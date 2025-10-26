@@ -76,6 +76,8 @@ def save_ingredients_data():
 
 
     for key,val in products.items():
+        products[key] = [str.lower(item) for item in val]
+
         if val[-1] == "good":
             good_products.append([key, val[:-1]])
             all_good_ingredients.append(val[:-1])

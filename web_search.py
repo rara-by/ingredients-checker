@@ -63,5 +63,6 @@ def fetch_data(search_term):
     product_name = [search_result[0].rsplit(" ", 2)[0]] # collect the product name
     print("Product name: ", product_name[0])
 
+    ingredients = [str.lower(item) for item in ingredients]
     return product_name + ingredients
     
