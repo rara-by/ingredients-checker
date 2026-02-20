@@ -1,4 +1,4 @@
-from save_csv import save_product_data 
+from save_csv import save_product_data, save_ingredients_data
 
 # url="https://incidecoder.com/"
 # Python env "env310"
@@ -10,9 +10,10 @@ bad_ingredients = ()
 
 def main():
 
-    product_name = input("Please input the product name: ")
+    product_name = input("Please input the product name: ") # add argument "save data"
     label = input("Was this product good or bad for your skin?: ") 
     save_product_data(product_name, label)
+    save_ingredients_data()
     
 
 if __name__ == "__main__":
