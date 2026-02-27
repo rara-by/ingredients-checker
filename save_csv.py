@@ -1,6 +1,7 @@
 import csv
 from web_search import fetch_data 
 from data_cleanup import data_cleanup
+from collections import Counter
 
 def save_product_data(product_name, label):
 
@@ -95,17 +96,17 @@ def save_ingredients_data():
 
         if val[-1] == "good":
             good_products.append([key, val[:-1]])
-            all_good_ingredients.append(val[:-1])
+            all_good_ingredients.extend(val[:-1])
             all_good_ingredients_set.update(val[:-1])
             all_good_ingredients_set.discard("1") # remove without raising error if it doesn't exist
 
         else:
             bad_products.append([key, val[:-1]])
-            all_bad_ingredients.append(val[:-1])
+            all_bad_ingredients.extend(val[:-1])
             all_bad_ingredients_set.update(val[:-1])
             all_bad_ingredients_set.discard("1") # remove without raising error if it doesn't exist
 
-        all_ingredients_set = all_bad_ingredients_set | all_good_ingredients_set # union
+    all_ingredients_set = all_bad_ingredients_set | all_good_ingredients_set # union
 
     # replace the repeated ingredients listed/spelled differently
     # format {'ingredient to be replaced': 'ingredient to replace'}
@@ -194,5 +195,17 @@ def save_ingredients_data():
     print("Updated all good ingredients number: ", len(all_good_ingredients_set))
     print("Updated all ingredients number: ", len(all_ingredients_set))
     print("Updated common ingredients number: ", len(common_ingredients_set))
+
+    # List of ingredients including duplicates
+    print("Total number of good ingredients: ", len(all_good_ingredients))
+    print("Total number of bad ingredients: ", len(all_bad_ingredients))
+
+    # Use replace_dict to  format same ingredients under different names into one
+    all_good_ingredients_new = [replace_dict[ing] if ing in replace_dict.keys() else ing for ing in all_good_ingredients]
+    all_bad_ingredients_new = [replace_dict[ing] if ing in replace_dict.keys() else ing for ing in all_bad_ingredients]
+
+    # Record frequency of ingredients in a dict
+    good_ingredients_frequency = Counter(all_good_ingredients_new)
+    bad_ingredients_frequency = Counter(all_bad_ingredients_new)
 
     # complete save the data in  a csv
