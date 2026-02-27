@@ -2,8 +2,10 @@
 Use web scraping to pull ingredients list of skincare products and display the common ingredients with description
 
 
-### Environment setup and scripts
+### Local environment setup and run scripts
 
-`conda activate env310` # local environment
-`cd (path)` # local repository path
-`python ingredients_search.py` # add product data
+`conda activate env310`
+
+`cd (path)` 
+
+`python ingredients_search.py`
